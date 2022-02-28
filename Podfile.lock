@@ -1,0 +1,28 @@
+PODS:
+  - Eureka (5.3.4)
+  - SwiftyButton (0.6.0)
+
+DEPENDENCIES:
+  - Eureka
+  - SwiftyButton (from `https://github.com/tosbaha/SwiftyButton.git`)
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+
+EXTERNAL SOURCES:
+  SwiftyButton:
+    :git: https://github.com/tosbaha/SwiftyButton.git
+
+CHECKOUT OPTIONS:
+  SwiftyButton:
+    :commit: af5a9f087cad70368e09ea67897b0ad687c02049
+    :git: https://github.com/tosbaha/SwiftyButton.git
+
+SPEC CHECKSUMS:
+  Eureka: 60cf058f86a8fb3ed26165ba5292b9850361b0a6
+  SwiftyButton: 6569f390cf0b713ec587fbcc262108e3f9118809
+
+PODFILE CHECKSUM: 4eb19ade6374ed0fad52c99af3b3e379344cb351
+
+COCOAPODS: 1.11.2
